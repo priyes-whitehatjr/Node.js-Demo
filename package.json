@@ -1,0 +1,16 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "demo of hooks",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Priyes BAmne",
+  "license": "ISC",
+  "dependencies": {
+    "async_hooks": "^1.0.0",
+    "dot-env": "0.0.1",
+    "express": "^4.17.1"
+  }
+}
